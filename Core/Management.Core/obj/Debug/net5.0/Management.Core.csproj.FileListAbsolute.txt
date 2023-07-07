@@ -1,0 +1,12 @@
+E:\Management\Management\Core\Management.Core\bin\Debug\net5.0\Management.Core.deps.json
+E:\Management\Management\Core\Management.Core\bin\Debug\net5.0\Management.Core.dll
+E:\Management\Management\Core\Management.Core\bin\Debug\net5.0\Management.Core.pdb
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.csproj.AssemblyReference.cache
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.AssemblyInfoInputs.cache
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.AssemblyInfo.cs
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.csproj.CoreCompileInputs.cache
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.dll
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\ref\Management.Core.dll
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\Management.Core.pdb
+E:\Management\Management\Core\Management.Core\obj\Debug\net5.0\refint\Management.Core.dll

@@ -1,0 +1,17 @@
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Application.deps.json
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Application.dll
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Application.pdb
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Core.dll
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Infrastructures.dll
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Core.pdb
+E:\Management\Management\Application\Management.Application\bin\Debug\net5.0\Management.Infrastructures.pdb
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.csproj.AssemblyReference.cache
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.AssemblyInfoInputs.cache
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.AssemblyInfo.cs
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.csproj.CoreCompileInputs.cache
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.csproj.CopyComplete
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.dll
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\ref\Management.Application.dll
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\Management.Application.pdb
+E:\Management\Management\Application\Management.Application\obj\Debug\net5.0\refint\Management.Application.dll

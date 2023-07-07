@@ -1,0 +1,15 @@
+E:\Management\Management\Infrastructures\Management.Infrastructures\bin\Debug\net5.0\Management.Infrastructures.deps.json
+E:\Management\Management\Infrastructures\Management.Infrastructures\bin\Debug\net5.0\Management.Infrastructures.dll
+E:\Management\Management\Infrastructures\Management.Infrastructures\bin\Debug\net5.0\Management.Infrastructures.pdb
+E:\Management\Management\Infrastructures\Management.Infrastructures\bin\Debug\net5.0\Management.Core.dll
+E:\Management\Management\Infrastructures\Management.Infrastructures\bin\Debug\net5.0\Management.Core.pdb
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.csproj.AssemblyReference.cache
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.AssemblyInfoInputs.cache
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.AssemblyInfo.cs
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.csproj.CoreCompileInputs.cache
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.csproj.CopyComplete
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.dll
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\ref\Management.Infrastructures.dll
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\Management.Infrastructures.pdb
+E:\Management\Management\Infrastructures\Management.Infrastructures\obj\Debug\net5.0\refint\Management.Infrastructures.dll
